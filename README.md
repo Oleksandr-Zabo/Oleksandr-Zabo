@@ -1,20 +1,18 @@
 <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="header"/>
-<h1 align="center">🖥️ Software Developer</h1>
+<h1 align="center">🖥️ FullStack Developer</h1>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="pinguin"/>
-
-Based in Ukraine 🌍
 
 🚀 Passionate about technology and creativity. My programming journey is a constant adventure, and I love tackling new challenges.
 
 🌱 Currently focused on web development and JavaScript projects!
 
-💡 In my free time, I enjoy video games, movies, and books. Balance is key to a happy life!
+💡 In my free time, I enjoy sports, movies, and books. Balance is key to a happy life!
 
 📚 Lifelong learner. Always expanding my skills and open to collaboration. Let’s connect and build something great together!
 
 🌟 **Connect with me:**
-- 📧 Email: oleksandr.zabo@gmail.com
+- 📧 Email: zoleksandr06@gmail.com
 - 💼 LinkedIn: [Oleksandr-Zabo](https://www.linkedin.com/in/oleksandr-zabo/)
 
 Looking forward to meeting fellow developers, creators, and curious minds. Together, we can innovate and shape the future. 🤝 Let’s code the next big thing!
@@ -42,3 +40,4 @@ Looking forward to meeting fellow developers, creators, and curious minds. Toget
 <a href="https://github.com/Oleksandr-Zabo"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oleksandr-Zabo&theme=one_dark_pro&show_icons=true" alt="Oleksandr-Zabo"></a>
 
 https://github.com/Oleksandr-Zabo
+
