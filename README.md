@@ -2,8 +2,6 @@
 
 <h1 align="center" style="font-size: 3em;">🖥️ Oleksandr Zabolotnyi</h1>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="penguin"/>
-
 ## 📚 About Me
 Hi! My name is **Oleksandr Zabolotnyi**. I study at **IT STEP Academy** and **VNTU**.  
 I love programming and computer management, and I am passionate about learning and exploring new technologies.  
@@ -12,6 +10,8 @@ Currently, I am a beginner in **C#** and **JavaScript** and enjoy working on pro
 🚀 I’m always open to learning new things and taking on new challenges.  
 🌱 My focus is on C# and JavaScript projects.  
 💡 I am interested in software development and computer management.
+
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="penguin"/>
 
 # 🧰 Languages & Tools
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -74,6 +74,7 @@ Currently, I am a beginner in **C#** and **JavaScript** and enjoy working on pro
 </a>
 
 https://github.com/Oleksandr-Zabo
+
 
 
 
