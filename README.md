@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="penguin"/>
 
-#📚 About Me
+##📚 About Me
 Hi! My name is **Oleksandr Zabolotnyi**. I study at **IT STEP Academy** and **VNTU**.  
 I love programming and computer management, and I am passionate about learning and exploring new technologies.  
 Currently, I am a beginner in **C#** and **JavaScript** and enjoy working on projects that help me improve my skills.  
@@ -74,4 +74,5 @@ Currently, I am a beginner in **C#** and **JavaScript** and enjoy working on pro
 </a>
 
 https://github.com/Oleksandr-Zabo
+
 
