@@ -3,14 +3,24 @@
 <h1 align="center" style="font-size: 3em;">🖥️ Oleksandr Zabolotnyi</h1>
 
 ## 📚 About Me
-Hi! My name is **Oleksandr Zabolotnyi**. I study at **IT STEP Academy** and **Vinnytsia National
- Technical University (VNTU)**.  
-I love programming and computer management, and I am passionate about learning and exploring new technologies.  
-Currently, I am a beginner in **C#** and **JavaScript** and enjoy working on projects that help me improve my skills.  
+Hi, I’m Oleksandr Zabolotnyi  
 
-🚀 I’m always open to learning new things and taking on new challenges.  
-🌱 My focus is on C# and JavaScript projects.  
-💡 I am interested in software development and computer management.
+🎓 Student at IT STEP Academy & Vinnytsia National Technical University (VNTU)  
+💻 Trainee/Junior FullStack Developer | .NET + React.js  
+🌱 Currently learning C# and JavaScript  
+🚀 Building pet projects to strengthen my skills  
+💡 Passionate about software development and computer management  
+
+🔧 Skills:  
+- Backend: C# (.NET)  
+- Frontend: JavaScript, React.js  
+- Tools: Git, Visual Studio, PyCharm  
+
+📌 Experience:  
+- 2 personal projects (C# + React)  
+- 1 month practice at NiX Summer Camp  
+
+🎯 Goal: Grow as a FullStack Trainee Developer and contribute to dynamic teams.
 
 <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="penguin"/>
 
@@ -21,6 +31,9 @@ Currently, I am a beginner in **C#** and **JavaScript** and enjoy working on pro
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="60" height="60"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -55,10 +68,8 @@ Currently, I am a beginner in **C#** and **JavaScript** and enjoy working on pro
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-  </a>
 </p>
+
 
 ## 🌟 Connect with Me
 
