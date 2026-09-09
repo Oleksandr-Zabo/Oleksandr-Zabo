@@ -79,13 +79,12 @@ Hi, I’m Oleksandr Zabolotnyi
 ## 🔥 Github Stats
 
 <a href="https://github.com/Oleksandr-Zabo">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Oleksandr-Zabo&theme=tokyonight&show_icons=true&locale=en" alt="Oleksandr-Zabo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oleksandr-Zabo&theme=github_dark" alt="Profile Summary">
 </a>
+
 <a href="https://github.com/Oleksandr-Zabo">
   <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oleksandr-Zabo&theme=tokyonight&show_icons=true" alt="Oleksandr-Zabo">
 </a>
-
-https://github.com/Oleksandr-Zabo
 
 
 
