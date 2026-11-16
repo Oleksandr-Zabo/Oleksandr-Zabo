@@ -86,6 +86,13 @@ Hi, I’m Oleksandr Zabolotnyi
   <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oleksandr-Zabo&theme=tokyonight&show_icons=true" alt="Oleksandr-Zabo">
 </a>
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Oleksandr-Zabo&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Oleksandr-Zabo"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 
