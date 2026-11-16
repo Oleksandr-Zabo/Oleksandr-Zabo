@@ -14,7 +14,7 @@ Hi, I’m Oleksandr Zabolotnyi
 🔧 Skills:  
 - Backend: C# (.NET), Django (Python)
 - Frontend: JavaScript, React.js  
-- Tools: Git, Visual Studio, PyCharm  
+- Tools: Git, Docker, Visual Studio, PyCharm, Rider
 
 📌 Experience:  
 - 2 personal projects (C# + React)  
@@ -38,18 +38,16 @@ Hi, I’m Oleksandr Zabolotnyi
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="50" height="50"/>
+</a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
+ 
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="50" height="50"/>
   </a>
@@ -58,6 +56,12 @@ Hi, I’m Oleksandr Zabolotnyi
   </a>
   <a href="https://learn.microsoft.com/en-us/sql/t-sql/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="tsql" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
@@ -77,7 +81,7 @@ Hi, I’m Oleksandr Zabolotnyi
 - 💼 [LinkedIn: Oleksandr-Zabo](https://www.linkedin.com/in/oleksandr-zabo/)
 
 ## 🔥 Github Stats
-
+<p>
 <a href="https://github.com/Oleksandr-Zabo">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oleksandr-Zabo&theme=github_dark" alt="Profile Summary">
 </a>
@@ -85,6 +89,7 @@ Hi, I’m Oleksandr Zabolotnyi
 <a href="https://github.com/Oleksandr-Zabo">
   <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oleksandr-Zabo&theme=tokyonight&show_icons=true" alt="Oleksandr-Zabo">
 </a>
+</p>
 
 ## 🐶 Github Animals
 
