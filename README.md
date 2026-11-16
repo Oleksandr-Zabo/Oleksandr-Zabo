@@ -86,24 +86,26 @@ Hi, I’m Oleksandr Zabolotnyi
   <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oleksandr-Zabo&theme=tokyonight&show_icons=true" alt="Oleksandr-Zabo">
 </a>
 
-## 🔥 Github Animals
+## 🐶 Github Animals
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Oleksandr-Zabo&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Oleksandr-Zabo?pet-id=885107421473332303"
+    width="350"
+    height="300"
+  />
+</a>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Oleksandr-Zabo&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Oleksandr-Zabo"
-  width="600"
+  width="650"
   height="300"
 />
 </a>
 
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Oleksandr-Zabo&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Oleksandr-Zabo?pet-id=885107421473332303"
-    width="400"
-    height="200"
-  />
-</a>
+
   
 
 
