@@ -12,7 +12,7 @@ Hi, I’m Oleksandr Zabolotnyi
 💡 Passionate about software development and computer management  
 
 🔧 Skills:  
-- Backend: C# (.NET)  
+- Backend: C# (.NET), Django (Python)
 - Frontend: JavaScript, React.js  
 - Tools: Git, Visual Studio, PyCharm  
 
