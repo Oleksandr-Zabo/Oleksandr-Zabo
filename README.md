@@ -20,7 +20,7 @@ Hi, I’m Oleksandr Zabolotnyi
 - 2 personal projects (C# + React)  
 - 1 month practice at NiX Summer Camp  
 
-🎯 Goal: Grow as a FullStack Trainee Developer and contribute to dynamic teams.
+🎯 Goal: Grow as a FullStack Developer and contribute to dynamic teams.
 
 <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="penguin"/>
 
