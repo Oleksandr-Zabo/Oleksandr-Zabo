@@ -99,7 +99,7 @@ Hi, I’m Oleksandr Zabolotnyi
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Oleksandr-Zabo&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Oleksandr-Zabo"
-  width="650"
+  width="600"
   height="300"
 />
 </a>
